@@ -14,7 +14,7 @@ class Sea_lion : public Animal {
 	public:
 		//static const int cost = 3500;
 		//access this in driver using Sea_lion::cost
-		//or if you have a Sea_lion object called my_sea_lion, access it uing my_sea_lion.cost
+		//or if you have a Sea_lion object called my_sea_lion, access it using my_sea_lion.cost
 	
 		Sea_lion();
 		float attendanceBoom();

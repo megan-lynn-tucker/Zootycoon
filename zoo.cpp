@@ -1,6 +1,6 @@
 /********************************************************************
 * Program Filename: zoo.cpp
-* Author: Megan Lynn Tuker
+* Author: Megan Lynn Tucker
 * Date: 02/16/2020
 * Description: Performs all operations involved in running the zoo
 * Input: N/A
@@ -291,7 +291,7 @@ void Zoo::addSea_lion(Sea_lion &new_sea_lion){
 			}
 		}
 	delete [] sea_lions; //delete the old array
-	sea_lions = temp; //make the pointer for sea lions point to temp; no need to derefference 
+	sea_lions = temp; //make the pointer for sea lions point to temp; no need to dereference 
 	temp = NULL;
 	}
 }
@@ -321,7 +321,7 @@ void Zoo::addBear(Bear &new_bear){
 			}
 		}
 	delete [] bears; //delete the old array
-	bears = temp; //make the pointer for bear point to temp; no need to derefference 
+	bears = temp; //make the pointer for bear point to temp; no need to dereference 
 	temp = NULL;
 	}
 }
@@ -351,7 +351,7 @@ void Zoo::addTiger(Tiger &new_tiger){
 			}
 		}
 	delete [] tigers; //delete the old array
-	tigers = temp; //make the pointer for bear point to temp; no need to derefference 
+	tigers = temp; //make the pointer for bear point to temp; no need to dereference 
 	temp = NULL;
 	}
 }
@@ -383,7 +383,7 @@ void Zoo::removeSea_lion(int &sea_lion_location){
 			}
 		}
 		delete [] sea_lions; //delete the old array
-		sea_lions = temp; //make the pointer for sea lions point to temp; no need to derefference 
+		sea_lions = temp; //make the pointer for sea lions point to temp; no need to dereference 
 		temp = NULL;
 	}
 }
@@ -415,7 +415,7 @@ void Zoo::removeBear(int &bear_location){
 			}
 		}
 		delete [] bears; //delete the old array
-		bears = temp; //make the pointer for bears point to temp; no need to derefference 
+		bears = temp; //make the pointer for bears point to temp; no need to dereference 
 		temp = NULL;
 	}
 }
@@ -447,7 +447,7 @@ void Zoo::removeTiger(int &tiger_location){
 			}
 		}
 		delete [] tigers; //delete the old array
-		tigers = temp; //make the pointer for tiger point to temp; no need to derefference 
+		tigers = temp; //make the pointer for tiger point to temp; no need to dereference 
 		temp = NULL;
 	}
 }
@@ -789,7 +789,7 @@ void Zoo::generateRevenue(){
 
 /********************************************************************* 
 * Function: feedAnimals
-* Description: Deduct money based off of species food requiremnets
+* Description: Deduct money based off of species food requirements
 * Parameters: N/A
 * Pre-Conditions: The feed animals portion of the game cycle occurs
 * Post-Conditions: The appropriate amount of money is deducted from the bank

@@ -1,6 +1,6 @@
 /********************************************************************
 * Program Filename: sea_lion.cpp
-* Author: Megan Lynn Tuker
+* Author: Megan Lynn Tucker
 * Date: 02/16/2020
 * Description: Creates a sea lion object and functions associated
 * Input: N/A

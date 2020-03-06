@@ -39,7 +39,7 @@ class Zoo{
 		void addSea_lion(Sea_lion&);
 		void addBear(Bear&);
 		void addTiger(Tiger&);
-		//input is the locatin in the array to be removed
+		//input is the location in the array to be removed
 		void removeSea_lion(int&);
 		void removeBear(int&);
 		void removeTiger(int&);

@@ -1,6 +1,6 @@
 /********************************************************************
 * Program Filename: tiger.cpp
-* Author: Megan Lynn Tuker
+* Author: Megan Lynn Tucker
 * Date: 02/16/2020
 * Description: Generates a tiger object
 * Input: N/A

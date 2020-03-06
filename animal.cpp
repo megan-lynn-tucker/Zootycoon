@@ -1,6 +1,6 @@
 /********************************************************************
 * Program Filename: animal.cpp
-* Author: Megan Lynn Tuker
+* Author: Megan Lynn Tucker
 * Date: 02/16/2020
 * Description: Generates information for the animal class
 * Input: N/A

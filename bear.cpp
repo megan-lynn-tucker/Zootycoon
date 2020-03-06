@@ -1,6 +1,6 @@
 /********************************************************************
 * Program Filename: bear.cpp
-* Author: Megan Lynn Tuker
+* Author: Megan Lynn Tucker
 * Date: 02/16/2020
 * Description: Creates a bear object
 * Input: N/A

@@ -1,6 +1,6 @@
 /*********************************************************************
-* Namme: driver.cpp
-* Author: Megan Lynn Tuker
+* Name: driver.cpp
+* Author: Megan Lynn Tucker
 * Date: 02/16/2020
 * Description:
 * Input: If the player wishes to continue playing or not 
